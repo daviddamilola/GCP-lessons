@@ -1,1 +1,34 @@
+cloud computing: on demand computing resources delivered over the internet.
+leverages efficient pooling of an on-demand, self managed, virtual infrastructure.
 
+traits of cloud computing
+- elastic : scales up or down
+- metered : pay for what you use
+- self-service: reduced need for it experts
+
+Benefits of cloud computing
+- fast access to resources / application
+- pay for what you use.
+- no capital expenditure to get started
+- potential to eliminate the need of local IT staff to maintain infrastructure and applications
+- potential to lower cost
+- deploy things yourself with self service
+- allow IT staff to focus on the business
+
+Risks of cloud computing
+- placing your trust in the cloud provider
+- potential for data loss (have backups)
+- potential for slow access to your data
+- potential questions related to legal/regulatory
+- potential for loss of customisation
+- potential for unknown cost
+
+Forms of cloud computing
+- SAAS - software as a service
+- IAAS - Infrastructure as a service 
+  access to virtual machines which is like an instance of a real computer machine
+- PASS - Platform as a service 
+    provide developers services to deploy their web applications
+
+History of cloud computing
+- used to be called centralized, grid, distrubute e.t.c computing.
