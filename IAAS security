@@ -1,0 +1,25 @@
+IAAS security
+
+cloud security concerns
+ - is the data safe
+ - who can see the data
+ - can it be modified
+ - who is responsible for securing the data
+ 
+unless you have managed security, the security of your data in the cloud is under shared responsibility
+meaning that the resposibilty of securing the data is shared between u and your cloud provider
+
+
+ways to protect
+
+Encryption - convert info oro data to cypher text, which cannot be understood by any one except those who have the key
+
+compliance
+ eg laws - depending on the kind of business data you are working with
+ requirements
+ policies
+ standards 
+ rules etc
+ 
+ vulnerability and mitigation
+ some providers allow vulnerability reporting
