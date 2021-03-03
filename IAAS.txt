@@ -1,0 +1,37 @@
+Virtualization: logical division of physical computing resources
+vm - software based instance of a physical server where a guest operating system has access to emulated physical hardware.
+
+container - os level vitualization. os kernel provides isolated user spaces to run specific applications.
+ - the os is sliced up into isolated secure area to run application
+ - containers can be run in virtual machines
+ - have less overhead and faster startup time than vms
+ 
+Private hybrid and pblic cloud - types of IAAS offerings
+private - on premises 
+public - cloud
+hybrid - private cloud and public cloud are working together same with enterprise cloud
+
+virtuaization vs private cloud
+
+pricing models
+ondemand - pay for what you use on the hour
+spot-instances - bid on spare computing capacity for upto 90% off the price
+reserved instances - 
+dedicated host - 
+
+service level agreement SLA
+- defines what level of performance and availability the IAAS provider will provide you
+- and what they will do if they are unable to provide yo that level of service.
+
+Migrating to the cloud
+
+green field deployment - start afresh in the clous
+
+migration - 
+things to consider
+------------------
+before migrating calculate the cost
+what is required in termsm of security availablty and performance
+enterprise grade functionality
+do you want to migrate or rebuild
+tools to make your migration easier
