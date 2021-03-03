@@ -1,0 +1,26 @@
+IAAS storage
+options: 
+ - storage inside the vm, each vm has its own storage
+ - store data outside the vm like in a block storage in the cloud or object storage
+ object storage is better for unstructured data
+ 
+ 
+ Cloud File Storage
+  - solutions include
+  dropbox, microsoft one drive, google drive
+  
+  Object storage
+  - for unstructured data like pictures, graphics, videos, downloadable files
+  - eg amazon s3 ms azure blob storage
+  - object storage can be done on premises also
+  
+  Data protection in the cloud
+  file backup soltns include:
+  - crash plan, carbonite, aws storage gateway, ms azure backup
+  disaster recovery in the cloud
+  vm can be replicated frequently to the cloud, those machines can be brought up to the cloud should a disaster occur
+  payment is made only if u have a disaster and have to bring up this machines
+  - zetro veeam , infrascale e.t.c
+  --think of it as file backup but for vms
+  
+  
