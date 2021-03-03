@@ -1,0 +1,15 @@
+how do u connect to IAAS in the cloud how do they connect to the network ? networking
+
+IAAS newtorking options:
+Public networking - IAAS machines and containers have public ip addresses and can be connected to with ssh
+private networking - use VPN's pr dedicated connectionto connect to these vms running in the cloud
+      - the traffic is kept completely secured and enccrypted on the public internet or is off the public internet entire
+
+Virtual Private Cloud networking: 
+  not a private cloud.....its a private network that can be connected to your network
+  you have control over:
+    -private IP address networking
+    -Routing
+    -Network access lists
+    -vpn connectivity back to your on premises infrastructure
+    
